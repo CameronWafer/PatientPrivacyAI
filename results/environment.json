@@ -1,0 +1,12 @@
+{
+  "python": "3.13.5",
+  "torch": "2.15.0+cpu",
+  "opacus": "1.6.0",
+  "numpy": "2.5.5",
+  "pandas": "3.1.1",
+  "sklearn": "1.9.1",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "config_hash": "9381d87963f2",
+  "uci_zip_sha256": "b17cd273da9ce1caa4710fce80227ea454d4dbf9fcbc8e6a9121672751563adc",
+  "flamby_reference_commit": "edacf54d5211520583b0133d55ac39b6fda8324b"
+}

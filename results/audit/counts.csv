@@ -1,0 +1,5 @@
+center_id,center,source,test,train,retained,removed,stratified_split
+0,Cleveland,303,104,199,303,0,True
+1,Hungary,294,89,172,261,33,True
+2,Switzerland,123,16,30,46,77,False
+3,VA Long Beach,200,45,85,130,70,True

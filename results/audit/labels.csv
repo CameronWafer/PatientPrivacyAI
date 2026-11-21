@@ -1,0 +1,9 @@
+center_id,center,split,positive,total,negative,prevalence
+0,Cleveland,test,48,104,56,0.46153846153846156
+0,Cleveland,train,91,199,108,0.457286432160804
+1,Hungary,test,33,89,56,0.3707865168539326
+1,Hungary,train,65,172,107,0.37790697674418605
+2,Switzerland,test,15,16,1,0.9375
+2,Switzerland,train,30,30,0,1.0
+3,VA Long Beach,test,35,45,10,0.7777777777777778
+3,VA Long Beach,train,66,85,19,0.7764705882352941

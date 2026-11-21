@@ -1,0 +1,11 @@
+check,result
+four hospitals,True
+source rows,920
+kept rows,740
+each row in exactly one split,True
+label = (num > 0),True
+all features finite,True
+same 13 columns everywhere,True
+test ids stay in their hospital,True
+identical feature rows within a hospital (kept),1
+identical feature rows across hospitals,0
